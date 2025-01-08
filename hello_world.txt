@@ -1,0 +1,3 @@
+function readMe(){
+    console.log("Read");
+};
